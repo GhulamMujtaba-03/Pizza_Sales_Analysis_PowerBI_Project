@@ -52,7 +52,7 @@
 ---
 
 #### Page 2: Best / Worst Sellers Matrix 🏆
-![Best and Worst Selling Pizzas](14515.png)
+![Best and Worst Selling Pizzas]([14515.png](https://github.com/GhulamMujtaba-03/Pizzza-sales/blob/main/Pizza%20Sales%20image-02.png))
 
 ###### Core Synchronized KPI Ribbon
 - **Total Revenue:** $817.86K
@@ -86,4 +86,3 @@
 
 ### Author 👨‍💻
 - Ghulam Mujtaba
--
